@@ -1,0 +1,19 @@
+# DP-900 Study Notes
+
+This repository contains my notes while preparing for the Microsoft Azure Data Fundamentals (DP-900) certification.
+
+## Topics Covered:
+- Core Data Concepts
+- Relational Data in Azure
+- Non-Relational Data
+- Analytics Workloads
+
+## Tools I'm Learning:
+- SQL
+- Azure SQL
+- Azure Cosmos DB
+
+## Progress:
+- [x] Core Concepts
+- [ ] Relational Data
+- [ ] Non-Relational Data
